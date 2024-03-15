@@ -1,0 +1,77 @@
+/* CSS styles */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .label {
+    display: block;
+    margin-bottom: 20px;
+    color: royalblue;
+  }
+  
+  .input {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid royalblue;
+    border-radius: 5px;
+    font-size: 16px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+  }
+  
+  .submitButton {
+    background-color: royalblue;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .submitButton:hover {
+    background-color: #0056b3;
+  }
+  
+  h2 {
+    font-size: 28px;
+    color: royalblue;
+    margin-bottom: 20px;
+  }
+  
+  .select {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid royalblue;
+    border-radius: 5px;
+    font-size: 16px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+  }
+  
+  .option {
+    color: royalblue;
+  }
+  
+  .transactionHistory {
+    margin-top: 40px;
+  }
+  
+  .transactionHistory h3 {
+    font-size: 24px;
+    color: royalblue;
+  }
+  
+  .transactionHistory ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .transactionHistory li {
+    margin-bottom: 10px;
+    color: royalblue;
+  }
+  
+  /* Add margins from left and right */
+  .containerWithMargins {
+    margin: 0 20px; /* Adjust the margin values as needed */
+  }
+  
